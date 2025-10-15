@@ -27,7 +27,7 @@ VNC Shield ML implements a sidecar-based architecture where ML inference engines
 
   🤖 AI-Powered Detection
 
-   **6 Deployed ML Models** - Random Forest, Neural Networks, XGBoost, LSTM, Autoencoders, Isolation Forest
+   **Deployed ML Models** - Random Forest, Neural Networks, XGBoost, LSTM, Autoencoders, Isolation Forest
    **Ensemble Learning** - Weighted voting, soft voting, and stacking for superior accuracy
    **Real-time Inference** - <30ms latency for threat predictions
    **96.8% Accuracy** - Industry-leading detection rates
